@@ -1,0 +1,25 @@
+{
+	"_embedded": {
+		"reminders": [{
+			"created": "2020-05-17T18:53:01.000+0000",
+			"lastUpdated": "2020-05-17T18:53:01.000+0000",
+			"id": "20b8cf6d-4ddc-40cf-9f48-679450aa87d1",
+			"reminderTime": "00:25:00",
+			"sunday": true,
+			"monday": true,
+			"tuesday": true,
+			"wednesday": true,
+			"thursday": true,
+			"friday": true,
+			"saturday": true,
+			"repeat": true,
+			"position": null
+		}],
+		"page": {
+			"size": 20,
+			"totalElements": 19,
+			"totalPages": 1,
+			"number": 0
+		}
+	}
+}
